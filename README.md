@@ -1,0 +1,5 @@
+# carouselImages
+轮播图，主要学习NSTimer，NSRunLoop以及UIScrollView。
+在三者的配合下，来实现录播效果。
+学习到了NSTimer的实例化，自动添加或者手动添加到NSRunLoop中。
+UIScrollView以及UIPageControl的代理方法，以及两者之间如何同步。
